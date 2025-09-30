@@ -4,9 +4,7 @@ This repo holds an HTML template designed for creating and recording question/an
 It’s lightweight, straight HTML (no frameworks), and built to be used in educational or practice scenarios.
 
 ⚠️ **Warning:**  
-This project is intended **for learning and training purposes only**.  
-Do **NOT** use it for capturing sensitive, personal, or unauthorized data.  
-Always respect privacy and ethical guidelines when working with data in **CyberSec** contexts.
+> This project is intended **for learning and training purposes only**.  Do **NOT** use it for capturing sensitive, personal, or unauthorized data. Always respect privacy and ethical guidelines when working with data in **CyberSec** contexts.
 
 ---
 
